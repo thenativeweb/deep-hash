@@ -9,7 +9,9 @@
     }
   ],
   "main": "dist/deepHash.js",
-  "dependencies": {},
+  "dependencies": {
+    "regenerator-runtime": "0.11.1"
+  },
   "devDependencies": {
     "assertthat": "1.0.0",
     "roboter": "1.0.4"
